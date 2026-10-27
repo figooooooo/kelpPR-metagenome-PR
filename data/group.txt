@@ -1,0 +1,7 @@
+sample	treat1
+CK-1	CK
+CK-2	CK
+CK-3	CK
+HD-1	HD
+HD-2	HD
+HD-3	HD

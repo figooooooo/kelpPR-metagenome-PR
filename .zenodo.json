@@ -1,0 +1,22 @@
+{
+  "title": "Code and data for a metagenomic study of kelp aquaculture effects on bacterioplankton and proteorhodopsin-based phototrophy",
+  "description": "<p>Analysis code and processed data accompanying an in-preparation study of kelp (<i>Saccharina japonica</i>) aquaculture effects on bacterioplankton community structure and proteorhodopsin-based phototrophy in a subtropical coastal bay of China.</p><p>Six surface-water metagenomes (three kelp-farming stations, three control stations; Dongshan Bay, Fujian, China; January 2025) were analysed for bacterioplankton community structure, proteorhodopsin (PR) gene diversity, phylogeny, spectral tuning and abundance, and for genome-resolved PR host assignment across 131 metagenome-assembled genomes.</p><p>Contents: pipeline scripts (steps 1 to 10), one R script per study figure together with the input tables used only by that figure, the shared input tables in tab-separated text format, and the PR OTU consensus tree. Raw reads are available from NCBI BioProject PRJNA1532396.</p><p>Licence: code MIT; data and documentation CC BY 4.0.</p>",
+  "creators": [
+    {"name": "Zhang, Fei", "affiliation": "Third Institute of Oceanography, Ministry of Natural Resources, Xiamen, China", "orcid": "0000-0002-8155-5037"}
+  ],
+  "keywords": [
+    "proteorhodopsin",
+    "metagenomics",
+    "kelp aquaculture",
+    "bacterioplankton",
+    "metagenome-assembled genomes",
+    "Dongshan Bay",
+    "phototrophy"
+  ],
+  "license": "cc-by-4.0",
+  "version": "v1.0.0",
+  "related_identifiers": [
+    {"identifier": "https://github.com/figooooooo/kelpPR-metagenome-PR/tree/v1.0.0", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1532396", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

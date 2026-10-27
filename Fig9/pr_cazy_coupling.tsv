@@ -1,0 +1,380 @@
+family	spearman_prTpm_vs_family	activity
+AA12	-1.000	The pyrroloquinoline quinone-dependent oxidoreductase activity was demonstrated 
+CBM42	-1.000	Modules of approx. 160 residues found mostly at the C-terminus of GH54 catalytic
+CBM61	-1.000	Modules of approx. 150 residues found appended to GH16, GH30, GH31, GH43, GH53 a
+GH166	1.000	alpha-1,4-galactosaminogalactan hydrolase (EC 3.2.1.-)
+GH68	1.000	levansucrase (EC 2.4.1.10); beta-fructofuranosidase (EC 3.2.1.26); inulosucrase 
+GH84	1.000	N-acetyl beta-glucosaminidase (EC 3.2.1.52); hyaluronidase (EC 3.2.1.35); [prote
+GT11	1.000	GDP-L-Fuc: galactoside alpha-1,2-L-fucosyltransferase (EC 2.4.1.69); GDP-L-Fuc: 
+GT25	1.000	lipopolysaccharide beta-1,4-galactosyltransferase (EC 2.4.1.-); beta-1,3-glucosy
+GT43	1.000	beta-glucuronyltransferase (EC 2.4.1.135); UDP-Xyl: xylan  beta-1,4-xylosyltrans
+GT83	1.000	undecaprenyl phosphate-alpha-L-Ara4N: 4-amino-4-deoxy-beta-L-arabinosyltransfera
+CBM10	0.943	Modules of approx. 50 residues. The cellulose-binding function has been demonstr
+CBM68	0.943	Binding to maltotriose and maltotetraose shown for the pullulanase of Anoxybacil
+CBM84	-0.943	Modules of approx. 140 aminoacids appended to enzymes of different families of C
+CE19	0.943	--
+CE7	0.943	acetyl xylan esterase (EC 3.1.1.72); cephalosporin-C deacetylase (EC 3.1.1.41).
+GH104	0.943	peptidoglycan lytic transglycosylase (EC 3.2.1.-)
+GH11	0.943	endo-beta-1,4-xylanase (EC 3.2.1.8); exo-1,4-beta-xylosidase (EC 3.2.1.-)
+GH13	-0.943	alpha-amylase (EC 3.2.1.1); pullulanase (EC 3.2.1.41); cyclomaltodextrin glucano
+GH148	0.943	beta-1,3-glucanase (EC 3.2.1.-)
+GH163	-0.943	endo-beta-N-acetylglucosaminidase cleaving GlcNAc-beta-1,2-Man (EC 3.2.1.-)
+GH171	-0.943	peptidoglycan beta-N-acetylmuramidase (EC 3.2.1.92)
+GH25	0.943	lysozyme (EC 3.2.1.17)
+GH5	-0.943	endo-beta-1,4-glucanase / cellulase (EC 3.2.1.4); endo-beta-1,4-xylanase (EC 3.2
+GH58	0.943	endo-N-acetylneuraminidase or endo-sialidase (EC 3.2.1.129)
+GH7	0.943	endo-beta-1,4-glucanase (EC 3.2.1.4); reducing end-acting cellobiohydrolase (EC 
+GH73	0.943	lysozyme (EC 3.2.1.17); mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase 
+GH8	-0.943	chitosanase (EC 3.2.1.132); cellulase (EC 3.2.1.4); licheninase (EC 3.2.1.73); e
+GH82	-0.943	Iota;-carrageenase (EC 3.2.1.157)
+GH86	0.943	beta-agarase (EC 3.2.1.81); beta-porphyranase (EC 3.2.1.178)
+GT10	-0.943	galactoside alpha-1,3/1,4-L-fucosyltransferase (EC 2.4.1.65); galactoside alpha-
+GT111	0.943	UDP-Galf: beta-1,3-galactofuranosyltransferase (EC 2.4.1.-)
+GT26	-0.943	UDP-ManNAcA: beta-N-acetyl mannosaminuronyltransferase (EC 2.4.1.-); UDP-ManNAc:
+GT28	-0.943	1,2-diacylglycerol 3-beta-galactosyltransferase (EC 2.4.1.46); 1,2-diacylglycero
+GT33	-0.943	GDP-Man: chitobiosyldiphosphodolichol beta-mannosyltransferase (EC 2.4.1.142).
+GT35	-0.943	glycogen or starch phosphorylase (EC 2.4.1.1).
+GT55	-0.943	GDP-Man: mannosyl-3-phosphoglycerate synthase (EC 2.4.1.217)
+PL14	0.943	alginate lyase (EC 4.2.2.3); exo-oligoalginate lyase (EC 4.2.2.26); beta-1,4-glu
+PL17	-0.943	alginate lyase (EC 4.2.2.3); oligoalginate lyase (EC 4.2.2.26)
+GH129	0.941	alpha-N-acetylgalactosaminidase (EC 3.2.1.49); ; alpha-1,3-(3,6)-anhydro-D-galac
+AA15	0.886	lytic cellulose monooxygenase (C1-hydroxylating) (EC 1.14.99.54); lytic chitin m
+AA3	-0.886	cellobiose dehydrogenase (EC 1.1.99.18); glucose 1-oxidase (EC 1.1.3.4); aryl al
+AA5	-0.886	Oxidase with oxygen as acceptor (EC 1.1.3.-); galactose oxidase (EC 1.1.3.9); gl
+AA6	0.886	1,4-benzoquinone reductase (EC. 1.6.5.6)
+CBM3	-0.886	Modules of approx. 150 residues found in bacterial enzymes. The cellulose-bindin
+CBM34	0.886	Modules of approx. 120 residues. Granular starch-binding function has been demon
+CBM35	0.886	Modules of approx. 130 residues. A module that is conserved in three Cellvibrio 
+CBM40	0.886	Modules of approx. 200 residues, found at the N-terminus of GH33 sialidases. Can
+CBM53	0.886	Starch-binding function demonstrated by Valdez et al. (2008) [PMID: 18260645]
+CE6	0.886	acetyl xylan esterase (EC 3.1.1.72).
+CE9	-0.886	N-acetylglucosamine 6-phosphate deacetylase (EC 3.5.1.25); N-acetylgalactosamine
+GH103	0.886	peptidoglycan lytic transglycosylase (EC 3.2.1.-)
+GH12	-0.886	endoglucanase (EC 3.2.1.4); xyloglucan hydrolase (EC 3.2.1.151); beta-1,3-1,4-gl
+GH131	-0.886	broad specificity exo-beta-1,3/1,6-glucanase with endo-beta-1,4-glucanase activi
+GH144	0.886	endo-beta-1,2-glucanase (EC 3.2.1.71); beta-1,2-glucooligosaccharide sophorohydr
+GH159	-0.886	beta-D-galactofuranosidase (EC 3.2.1.146)
+GH167	-0.886	beta-carrageenase (EC 3.2.1.-)
+GH22	0.886	lysozyme type C (EC 3.2.1.17); lysozyme type i (EC 3.2.1.17); alpha-lactalbumin
+GH24	0.886	lysozyme (EC 3.2.1.17)
+GH31	0.886	alpha-glucosidase (EC 3.2.1.20); alpha-galactosidase (EC 3.2.1.22); alpha-mannos
+GH54	-0.886	alpha-L-arabinofuranosidase (EC 3.2.1.55); beta-xylosidase (EC 3.2.1.37).
+GH55	-0.886	exo-beta-1,3-glucanase (EC 3.2.1.58); endo-beta-1,3-glucanase (EC 3.2.1.39)
+GH77	-0.886	amylomaltase or 4-alpha-glucanotransferase (EC 2.4.1.25)
+GH85	-0.886	endo-beta-N-acetylglucosaminidase (EC 3.2.1.96)
+GH94	0.886	cellobiose phosphorylase (EC 2.4.1.20); laminaribiose phosphorylase (EC 2.4.1.31
+GT103	0.886	UDP-alpha-L-GlcpNAc: O-antigen-polysaccharide beta-1,4-N-acetylglucosaminyltrans
+GT112	0.886	ADP-glyceromannoheptose: glycoprotein O-heptosyltransferase (EC 2.4.99.-)
+GT17	0.886	beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase (EC 2.4.
+GT29	0.886	sialyltransferase (EC 2.4.99.-); beta-galactoside alpha-2,6-sialyltransferase (E
+GT34	-0.886	UDP-Gal: galactomannan alpha-1,6-galactosyltransferase (EC 2.4.1.-); UDP-Xyl: xy
+GT7	0.886	lactose synthase (EC 2.4.1.22); beta-N-acetylglucosaminyl-glycopeptide beta-1,4-
+GT70	-0.886	UDP-GlcA: beta-glucuronosyltransferase (EC 2.4.1.17)
+GT72	0.886	UDP-Glc: DNA alpha-glucosyltransferase (EC 2.4.1.26)
+GT76	-0.886	Dol-P-Man: alpha-1,6-mannosyltransferase (EC 2.4.1.-)
+GT80	-0.886	beta-galactoside alpha-2,6-sialyltransferase (EC 2.4.99.1); beta-galactoside alp
+GT84	0.886	cyclic beta-1,2-glucan synthase (EC 2.4.1.-)
+GT92	0.886	UDP-Gal: N-glycan core alpha-1,6-fucoside beta-1,4-galactosyltransferase (EC 2.4
+GH91	-0.880	inulin lyase [DFA-I-forming] (EC 4.2.2.17); inulin lyase [DFA-III-forming] (EC 4
+GT65	0.880	GDP-Fuc: protein O-alpha-fucosyltransferase (EC 2.4.1.-)
+PL18	0.841	alginate lyase (EC 4.2.2.3); poly(alpha-L-guluronate) lyase / G-specific alginat
+AA4	-0.829	vanillyl-alcohol oxidase (EC 1.1.3.38)
+CBM1	-0.829	Modules of approx. 40 residues found almost exclusively in fungi. The cellulose-
+CBM50	-0.829	Modules of approx. 50 residues found attached to various enzymes from families G
+CBM57	-0.829	Created from reading Schallus et al (2008) Mol Biol Cell. 19:3404-3414 [PMID: 18
+CBM63	-0.829	The CBM63 module of Bacillus subtilis expansin EXLX1 has been shown to bind cell
+CBM64	-0.829	Module found at C-term of several Spirochaeta thermophila proteins. Binding to c
+CE0	0.829	See below.
+GH100	0.829	alkaline and neutral invertase (EC 3.2.1.26)
+GH102	-0.829	peptidoglycan lytic transglycosylase (EC 3.2.1.-)
+GH147	-0.829	beta-galactosidase (EC 3.2.1.23)
+GH26	0.829	beta-mannanase (EC 3.2.1.78); exo-beta-1,4-mannobiohydrolase (EC 3.2.1.100); bet
+GH3	0.829	beta-glucosidase (EC 3.2.1.21); xylan 1,4-beta-xylosidase (EC 3.2.1.37); beta-gl
+GH42	-0.829	beta-galactosidase (EC 3.2.1.23); alpha-L-arabinopyranosidase (EC 3.2.1.-)
+GH46	-0.829	chitosanase (EC 3.2.1.132)
+GH51	0.829	endoglucanase (EC 3.2.1.4); endo-beta-1,4-xylanase (EC 3.2.1.8); beta-xylosidase
+GH67	0.829	alpha-glucuronidase (EC 3.2.1.139); xylan alpha-1,2-glucuronidase (EC 3.2.1.131)
+GH81	-0.829	endo-beta-1,3-glucanase (EC 3.2.1.39)
+GT13	0.829	alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase (EC 2.4
+GT22	-0.829	Dol-P-Man: Man6GlcNAc2-PP-Dol alpha-1,2-mannosyltransferase (EC 2.4.1.259); Dol-
+GT62	-0.829	alpha-1,2-mannosyltransferase (EC 2.4.1.-); alpha-1,6-mannosyltransferase (EC 2.
+GT8	0.829	lipopolysaccharide alpha-1,3-galactosyltransferase (EC 2.4.1.44);  UDP-Glc: (glu
+GT90	0.829	UDP-Xyl: (mannosyl) glucuronoxylomannan/galactoxylomannan beta-1,2-xylosyltransf
+PL15	-0.829	alginate lyase (EC 4.2.2.3); oligoalginate lyase / exo-alginate lyase (EC 4.2.2.
+PL4	0.829	rhamnogalacturonan endolyase (EC 4.2.2.23).
+AA8	-0.812	Iron reductase domain
+GH56	0.778	hyaluronidase (EC 3.2.1.35); chondroitin hydrolase (EC 3.2.1.-)
+AA0	0.771	--
+AA10	0.771	AA10 (formerly CBM33) proteins are copper-dependent lytic polysaccharide monooxy
+CBM18	0.771	Modules of approx. 40 residues. The chitin-binding function has been demonstrate
+CBM23	0.771	Mannan-binding function demonstrated in one case.
+CBM32	0.771	Binding to galactose and lactose has been demonstrated for the module of Micromo
+CBM37	0.771	Modules of approx. 100 residues, conserved in numerous R. albus polysaccharide-d
+CBM45	0.771	Modules of approx.  100 residues, found at the N-terminus of plastidial alpha-am
+CBM5	-0.771	Modules of approx. 60 residues found in bacterial enzymes. Chitin-binding descri
+CBM6	-0.771	Modules of approx. 120 residues. The cellulose-binding function has been demonst
+CBM60	0.771	Modules of approx 120 residues usually found appended to xylanases. The xylan-bi
+CBM62	0.771	The CBM62 module of Clostridium thermocellum Cthe_2193 protein binds galactose m
+CBM67	0.771	Fujimoto et al. [PMID : 23486481] disclosed the L-rhamnose binding activity and 
+CBM73	0.771	Modules of approx 65 residues found on various enzymes active of chitin. Chitin-
+CBM85	0.771	--
+CBM88	-0.771	Binding to terminal galactose in galactoxyloglucan and galactomannan
+CE13	0.771	pectin acetylesterase (EC 3.1.1.-)
+CE4	-0.771	acetyl xylan esterase (EC 3.1.1.72);  chitin deacetylase (EC 3.5.1.41); chitooli
+CE5	0.771	acetyl xylan esterase (EC 3.1.1.72); cutinase (EC 3.1.1.74)
+GH101	-0.771	endo-alpha-N-acetylgalactosaminidase (EC 3.2.1.97)
+GH108	-0.771	N-acetylmuramidase (EC 3.2.1.17)
+GH113	-0.771	beta-mannanase (EC 3.2.1.78)
+GH117	0.771	beta-D-galactofuranosidase (EC 3.2.1.146); alpha-neoagaro-oligosaccharide hydrol
+GH126	-0.771	alpha-amylase (EC 3.2.1.-)
+GH135	-0.771	alpha-1,4-galactosaminogalactan hydrolase (EC 3.2.1.-)
+GH140	-0.771	beta-1,2-apiosidase (EC 3.2.1.-)
+GH170	-0.771	6-phospho-N-acetylmuramidase (EC 3.2.1.-)
+GH2	0.771	beta-galactosidase (EC 3.2.1.23) ; beta-mannosidase (EC 3.2.1.25); beta-glucuron
+GH27	0.771	alpha-galactosidase (EC 3.2.1.22); alpha-N-acetylgalactosaminidase (EC 3.2.1.49)
+GH29	0.771	alpha-L-fucosidase (EC 3.2.1.51); alpha-1,3/1,4-L-fucosidase (EC 3.2.1.111); alp
+GH36	0.771	alpha-galactosidase (EC 3.2.1.22); alpha-N-acetylgalactosaminidase (EC 3.2.1.49)
+GH37	0.771	alpha,alpha-trehalase (EC 3.2.1.28).
+GH39	-0.771	alpha-L-iduronidase (EC 3.2.1.76); beta-xylosidase (EC 3.2.1.37); alpha-L-arabin
+GH43	-0.771	beta-xylosidase (EC 3.2.1.37); alpha-L-arabinofuranosidase (EC 3.2.1.55); xylana
+GH45	-0.771	endoglucanase (EC 3.2.1.4); xyloglucan-specific endo-beta-1,4-glucanase / endo-x
+GH47	-0.771	alpha-mannosidase (EC 3.2.1.113)
+GH48	-0.771	reducing end-acting cellobiohydrolase (EC 3.2.1.176); endo-beta-1,4-glucanase (E
+GH59	0.771	beta-galactosidase (EC 3.2.1.23); galactocerebrosidase (EC 3.2.1.46)
+GH62	-0.771	alpha-L-arabinofuranosidase (EC 3.2.1.55)
+GH63	0.771	processing alpha-glucosidase (EC 3.2.1.106); alpha-1,3-glucosidase (EC 3.2.1.84)
+GH66	0.771	cycloisomaltooligosaccharide glucanotransferase (EC 2.4.1.248); dextranase (EC 3
+GH71	0.771	alpha-1,3-glucanase (EC 3.2.1.59).
+GH87	-0.771	mycodextranase (EC 3.2.1.61); alpha-1,3-glucanase (EC 3.2.1.59)
+GH88	0.771	d-4,5-unsaturated beta-glucuronyl hydrolase (EC 3.2.1.-)
+GH95	-0.771	alpha-L-fucosidase (EC 3.2.1.51); alpha-1,2-L-fucosidase (EC 3.2.1.63); alpha-L-
+GH96	-0.771	alpha-agarase (EC 3.2.1.158)
+GH97	-0.771	glucoamylase (EC 3.2.1.3); alpha-glucosidase (EC 3.2.1.20); alpha-galactosidase 
+GH99	0.771	glycoprotein endo-alpha-1,2-mannosidase (EC 3.2.1.130); mannan endo-1,2-alpha-ma
+GT1	0.771	UDP-glucuronosyltransferase (EC 2.4.1.17); zeatin O-beta-xylosyltransferase (EC 
+GT102	0.771	dTDP-beta-L-Rhap : O-antigen-polysaccharide alpha-1,3-L-rhamnosyltransferase (EC
+GT107	-0.771	CMP-beta-KDO: beta-2,4-KDO transferase (EC 2.4.99.-); CMP-beta-KDO: beta-2,7-KDO
+GT14	-0.771	beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransfe
+GT19	0.771	lipid-A-disaccharide synthase (EC 2.4.1.182).
+GT21	0.771	UDP-Glc: ceramide beta-glucosyltransferase (EC 2.4.1.80).
+GT24	0.771	UDP-Glc: glycoprotein alpha-glucosyltransferase (EC 2.4.1.-).
+GT48	0.771	1,3-beta-glucan synthase (EC 2.4.1.34)
+GT5	-0.771	UDP-Glc: glycogen glucosyltransferase (EC 2.4.1.11); ADP-Glc: starch glucosyltra
+GT69	-0.771	GDP-Man: alpha-1,3-mannosyltransferase (EC 2.4.1.-)
+GT71	0.771	alpha-mannosyltransferase (EC 2.4.1.-)
+GT81	-0.771	NDP-Glc: glucosyl-3-phosphoglycerate synthase (EC 2.4.1.266); NDP-Man: mannosyl-
+GT9	0.771	lipopolysaccharide N-acetylglucosaminyltransferase (EC 2.4.1.56); heptosyltransf
+GT96	0.771	UDP-Gal: peptidyl serine alpha-galactosyltransferase (EC 2.4.1.-)
+GT99	0.771	CMP-beta-KDO 3-deoxy-beta-D-manno-oct-2-ulosonic acid transferase (EC 2.4.99.-)
+PL1	-0.771	pectate lyase (EC 4.2.2.2); exo-pectate lyase (EC 4.2.2.9); pectin lyase (EC 4.2
+PL12	0.771	heparin-sulfate lyase (EC 4.2.2.8); heparin lyase / heparin lyase I (EC 4.2.2.7)
+PL16	0.771	hyaluronan lyase (EC 4.2.2.1).
+PL25	-0.771	ulvan lyase (EC 4.2.2.-).
+PL26	0.771	rhamnogalacturonan exolyase (EC 4.2.2.24).
+PL42	-0.771	L-rhamnose-alpha-1,4-D-glucuronate lyase (EC 4.2.2.-); L-Rhalpha-alpha-1,4-GlcA 
+PL6	-0.771	alginate lyase (EC 4.2.2.3); chondroitinase B (EC 4.2.2.19); MG-specific alginat
+PL9	-0.771	pectate lyase (EC 4.2.2.2); exopolygalacturonate lyase (EC 4.2.2.9); thiopeptido
+CBM44	0.759	The C-terminal CBM44 module of the Clostridium thermocellum enzyme has been demo
+GH156	-0.759	exo-alpha-sialidase (EC 3.2.1.18)
+GT12	0.759	[N-acetylneuraminyl]-galactosylglucosylceramide N-acetylgalactosaminyltransferas
+GT75	0.759	UDP-Glc: self-glucosylating beta-glucosyltransferase (EC 2.4.1.-); UDP-L-arabino
+GT97	0.759	CMP-Neu5Ac:alpha-galactoside alpha-2,6-sialyltransferase (EC 2.4.99.-); CMP-Neu5
+PL33	0.759	hyaluronate lyase (EC 4.2.2.1); gellan lyase (EC 4.2.2.25); chondroitin sulfate 
+GT40	0.725	beta-1,3-galactofuranosyltransferases (EC 2.4.1.-)
+CBM26	0.714	Starch-binding function demonstrated in two cases.
+CBM51	0.714	Modules of approx. 150 residues found attached to various enzymes from  families
+CE12	0.714	pectin acetylesterase (EC 3.1.1.-); rhamnogalacturonan acetylesterase (EC 3.1.1.
+CE14	-0.714	N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase (E
+GH109	0.714	alpha-N-acetylgalactosaminidase (EC 3.2.1.49); beta-N-acetylhexosaminidase (EC 3
+GH125	0.714	exo-alpha-1,6-mannosidase (EC 3.2.1.-)
+GH169	-0.714	beta-glucuronidase (EC 3.2.1.31); beta-1,4-D-glucuronidase (EC 3.2.1.-)
+GH98	-0.714	blood-group endo-beta-1,4-galactosidase (EC 3.2.1.102); blood group A- and B-cle
+GT105	0.714	Dol-P-beta-D-Man: protein alpha-D-mannosyltransferase (EC 2.4.1.109);
+GT113	0.714	Glucosyltransferase (2.4.1.-); Hexosyltransferase (2.4.1.-)
+GT39	0.714	Dol-P-Man: protein alpha-mannosyltransferase (EC 2.4.1.109)
+GT59	0.714	Dol-P-Glc: Glc2Man9GlcNAc2-PP-Dol alpha-1,2-glucosyltransferase (EC 2.4.1.256)
+GT82	0.714	UDP-GalNAc: beta-1,4-N-acetylgalactosaminyltransferase (EC 2.4.1.-)
+GT85	0.714	beta-D-arabinofuranosyl monophosphoryldecaprenol: galactan alpha-D-arabinofurano
+GT87	-0.714	polyprenol-P-Man: alpha-1,2-mannosyltransferase (EC 2.4.1.-)
+PL22	0.714	oligogalacturonate lyase / oligogalacturonide lyase (EC 4.2.2.6)
+PL24	-0.714	ulvan lyase (EC 4.2.2.-).
+PL3	0.714	pectate lyase (EC 4.2.2.2).
+PL38	-0.714	endo-beta-1,4-glucuronan lyase (EC 4.2.2.14)
+PL5	0.714	alginate lyase (EC 4.2.2.3); endo-beta-1,4-glucuronan lyase (EC 4.2.2.14)
+GH132	0.698	Activity on beta-1,3-glucan (curdlan) shown for the Aspergillus fumigatus Sun4 p
+GT44	0.676	UDP-Glc: alpha-glucosyltransferase (EC 2.4.1.-); UDP-GlcNAc: alpha-N-acetylgluco
+GT100	0.667	alpha-sialyltransferase (EC 2.4.99.-)
+AA1	0.657	Laccase / p-diphenol:oxygen oxidoreductase / ferroxidase (EC 1.10.3.2); ; ferrox
+CBM16	-0.657	Carbohydrate-binding module 16. Binding to cellulose and glucomannan demonstrate
+CBM27	-0.657	Mannan-binding function demonstrated in two cases
+CBM47	0.657	Modules of approx 150 residues. Fucose-binding activity demonstrated
+CE11	-0.657	UDP-3-0-acyl N-acetylglucosamine deacetylase (EC 3.5.1.108).
+CE15	0.657	4-O-methyl-glucuronoyl methylesterase (EC 3.1.1.-)
+CE16	0.657	acetylesterase (EC 3.1.1.6) active on various carbohydrate acetyl esters
+CE8	0.657	pectin methylesterase (EC 3.1.1.11).
+GH110	-0.657	alpha-galactosidase (EC 3.2.1.22); alpha-1,3-galactosidase (EC 3.2.1.-)
+GH115	0.657	xylan alpha-1,2-glucuronidase (3.2.1.131); alpha-(4-O-methyl)-glucuronidase (3.2
+GH19	0.657	chitinase (EC 3.2.1.14); lysozyme (EC 3.2.1.17)
+GH32	-0.657	invertase (EC 3.2.1.26); endo-inulinase (EC 3.2.1.7); beta-2,6-fructan 6-levanbi
+GH35	0.657	beta-galactosidase (EC 3.2.1.23); exo-beta-glucosaminidase (EC 3.2.1.165); exo-b
+GH4	0.657	maltose-6-phosphate glucosidase (EC 3.2.1.122); alpha-glucosidase (EC 3.2.1.20);
+GH50	-0.657	beta-agarase (EC 3.2.1.81).
+GH57	-0.657	alpha-amylase (EC 3.2.1.1); alpha-galactosidase (EC 3.2.1.22); amylopullulanase 
+GH74	-0.657	endoglucanase (EC 3.2.1.4); oligoxyloglucan reducing end-specific cellobiohydrol
+GH89	-0.657	alpha-N-acetylglucosaminidase (EC 3.2.1.50)
+GH9	-0.657	endoglucanase (EC 3.2.1.4); endo-beta-1,3(4)-glucanase / lichenase-laminarinase 
+GT101	0.657	beta-glucosyltransferase (EC 2.4.1.-)
+GT15	0.657	glycolipid 2-alpha-mannosyltransferase (EC 2.4.1.131); GDP-Man: alpha-1,2-mannos
+GT23	0.657	N-acetyl-beta-D-glucosaminide alpha-1,6-L-fucosyltransferase (EC 2.4.1.68); chit
+GT41	-0.657	UDP-GlcNAc: peptide beta-N-acetylglucosaminyltransferase (EC 2.4.1.255); UDP-Glc
+GT51	0.657	murein polymerase (EC 2.4.1.129).
+GT53	0.657	UDP-L-Ara: alpha-L-arabinosyltransferase (EC 2.4.2.-); DecapreP-Araf: alpha-(1,3
+GT6	-0.657	alpha-1,3-galactosyltransferase (EC 2.4.1.87); alpha-1,3 N-acetylgalactosaminylt
+PL29	-0.657	chondroitin-sulfate ABC endolyase (EC 4.2.2.20)
+PL37	-0.657	chondroitin-sulfate ABC endolyase (EC 4.2.2.20); heparin-sulfate lyase / heparin
+CBM39	0.655	Modules generally found at the N-terminus of a GH16 module (itself frequently la
+GH139	-0.655	alpha-2-O-Me-L-fucosidase (EC 3.2.1.-)
+PL20	0.655	endo-beta-1,4-glucuronan lyase (EC 4.2.2.14)
+CBM24	0.638	alpha-1,3-glucan (mutan)-binding function demonstrated in two cases (PMID:106369
+GH121	0.638	beta-L-arabinobiosidase (EC 3.2.1.-)
+AA17	-0.600	Lytic polygalacturonic acid monooxygenase (C4-hydroxylating) (EC 1.14.99.-)
+AA7	0.600	glucooligosaccharide oxidase (EC 1.1.3.-); chitooligosaccharide oxidase (EC 1.1.
+CBM11	-0.600	Modules of approx. 180-200 residues. The CBM11 of Clotridium thermocellum Cel26A
+CBM38	0.600	The inulin-binding function has been demonstrated in the case of the cycloinulo-
+CBM48	0.600	Modules of approx. 100 residues with glycogen-binding function, appended to GH13
+CE2	0.600	acetyl xylan esterase (EC 3.1.1.72).
+GH0	0.600	Glycoside hydrolases not yet assigned to a family.
+GH105	-0.600	unsaturated rhamnogalacturonyl hydrolase (EC 3.2.1.172); d-4,5-unsaturated beta-
+GH106	-0.600	alpha-L-rhamnosidase (EC 3.2.1.40); rhamnogalacturonan alpha-L-rhamnohydrolase (
+GH107	-0.600	endo-alpha-1,4-L-fucanase (EC 3.2.1.212)
+GH123	0.600	beta-N-acetylgalactosaminidase (EC 3.2.1.53); glycosphingolipid beta-N-acetylgal
+GH141	0.600	alpha-L-fucosidase (EC 3.2.1.51); xylanase (EC 3.2.1.8)
+GH146	0.600	beta-L-arabinofuranosidase (EC 3.2.1.185)
+GH15	0.600	glucoamylase (EC 3.2.1.3); glucodextranase (EC 3.2.1.70); alpha,alpha-trehalase 
+GH152	-0.600	beta-1,3-glucanase (EC 3.2.1.39)
+GH165	0.600	beta-galactosidase (EC 3.2.1.23)
+GH28	0.600	polygalacturonase (EC 3.2.1.15); exo-polygalacturonase (EC 3.2.1.67); exo-polyga
+GH33	0.600	sialidase or neuraminidase (EC 3.2.1.18); trans-sialidase (EC 2.4.1.-); anhydros
+GH53	-0.600	endo-beta-1,4-galactanase (EC 3.2.1.89).
+GH93	0.600	exo-alpha-L-1,5-arabinanase (EC 3.2.1.-)
+GT114	0.600	beta-xylosyltransferase (EC 2.4.1.-)
+GT20	0.600	alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15); Glucosylgl
+GT4	-0.600	sucrose synthase (EC 2.4.1.13); sucrose-phosphate synthase (EC 2.4.1.14); alpha-
+GT45	-0.600	alpha-N-acteylglucosaminyltransferase (EC 2.4.1.-)
+GT47	0.600	heparan beta-glucuronyltransferase (EC 2.4.1.225); xyloglucan beta-galactosyltra
+GT57	0.600	Dol-P-Glc: alpha-1,3-glucosyltransferase (EC 2.4.1.-)
+GT61	-0.600	beta-1,2-xylosyltransferase (EC 2.4.2.38) ; protein O-beta-N-acetylglucosaminylt
+GT74	-0.600	alpha-1,2-L-fucosyltransferase (EC 2.4.1.69)
+GT95	0.600	UDP-beta-L-Araf:hydroxyproline beta-L-arabinofuranosyltransferase (EC 2.4.2.-);
+PL10	0.600	pectate lyase (EC 4.2.2.2)
+PL7	-0.600	poly(beta-mannuronate) lyase / M-specific alginate lyase (EC 4.2.2.3); alpha-L-g
+GT91	0.580	beta-1,2-mannosyltransferase (EC 2.4.1.-)
+AA2	0.543	manganese peroxidase (EC 1.11.1.13); versatile peroxidase (EC 1.11.1.16); lignin
+CBM20	0.543	The granular starch-binding function has been demonstrated in several cases. Int
+CBM77	-0.543	Pectin binding modules of approx. 110 residues. The Ruminococcus flavefaciens CB
+GH120	-0.543	beta-xylosidase (EC 3.2.1.37)
+GH14	0.543	beta-amylase (EC 3.2.1.2)
+GH153	0.543	poly-beta-1,6-D-glucosamine hydrolase (EC 3.2.1.-)
+GH18	-0.543	chitinase (EC 3.2.1.14); lysozyme (EC 3.2.1.17); endo-beta-N-acetylglucosaminida
+GT106	0.543	UDP-beta-L-rhamnose:rhamnogalacturonan I 4-alpha-rhamnosyltransferase (EC 2.4.1.
+GT109	-0.543	UDP-GalNAc: beta-1,4-N-acetylgalactosaminyltransferase (EC 2.4.1.-)
+GT32	-0.543	alpha-1,6-mannosyltransferase (EC 2.4.1.-); alpha-1,4-N-acetylglucosaminyltransf
+GT58	0.543	Dol-P-Man: Man5GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase (EC 2.4.1.258)
+GT66	-0.543	dolichyl-diphosphooligosaccharideâ€”protein glycotransferase (EC 2.4.99.18); und
+GT93	0.543	UDP-GluA : alpha-glucuronyltransferase (EC 2.4.1.-) involved in GAG polymerizati
+PL28	-0.543	ulvan lyase (EC 4.2.2.-)
+GT94	0.541	GDP-Man: GlcA-beta-1,2-Man-alpha-1,3-Glc-beta-1,4-Glc-alpha-1-PP-undecaprenol be
+GH70	0.493	dextransucrase (EC 2.4.1.5); alternansucrase (EC 2.4.1.140); reuteransucrase (EC
+AA9	-0.486	AA9 (formerly GH61) proteins are copper-dependent lytic polysaccharide monooxyge
+CBM31	-0.486	Binding to beta-1,3-xylan has been demonstrated for the C-terminal module of the
+GH10	-0.486	endo-1,4-beta-xylanase (EC 3.2.1.8); endo-1,3-beta-xylanase (EC 3.2.1.32); tomat
+GH116	-0.486	beta-glucosidase (EC 3.2.1.21); beta-xylosidase (EC 3.2.1.37); acid beta-glucosi
+GH17	0.486	glucan endo-1,3-beta-glucosidase (EC 3.2.1.39); licheninase (EC 3.2.1.73); ABA-s
+GH23	-0.486	lysozyme type G (EC 3.2.1.17); peptidoglycan lyase (EC 4.2.2.n1) also known in t
+GH49	-0.486	dextranase (EC 3.2.1.11); isopullulanase (EC 3.2.1.57); dextran 1,6-alpha-isomal
+GH72	0.486	beta-1,3-glucanosyltransglycosylase (EC 2.4.1.-)
+GT27	-0.486	polypeptide alpha-N-acetylgalactosaminyltransferase (EC 2.4.1.41)
+CBM69	0.439	starch-binding function demonstrated in one case; distantly related to families 
+CBM12	-0.429	Modules of approx. 40-60 residues. The majority of these modules is found among 
+CBM41	0.429	Modules of approx. 100 residues found in primarily in bacterial pullulanases. Th
+CBM8	-0.429	The cellulose-binding module from a cellulase of the slime mold Dictyostelium di
+CBM9	-0.429	Modules of approx. 170 residues found so far only in xylanases. The cellulose-bi
+GH127	0.429	beta-L-arabinofuranosidase (EC 3.2.1.185); 3-C-carboxy-5-deoxy-L-xylose (aceric 
+GH136	0.429	lacto-N-biosidase (EC 3.2.1.140); Lacto-N-biosidase (Lewis antigen a/b specifici
+GH151	-0.429	alpha-L-fucosidase (EC 3.2.1.51)
+GT98	0.429	Dol-P-Man : protein [tryptophan] alpha-C-mannosyltransferase (EC 2.4.1.-)
+PL31	-0.429	endo-beta-1,4-glucuronan lyase (EC 4.2.2.14); poly(beta-mannuronate) lyase / M-s
+GH150	-0.395	Iota;-carrageenase (EC 3.2.1.162)
+GT110	0.372	UDP-D-xylose:ribitol-5-phosphate beta-1,4-xylosyltransferase (EC 2.4.2.-)
+CBM21	0.371	Modules of approx. 100 residues. The granular starch-binding function has been d
+GH114	-0.371	endo-alpha-1,4-polygalactosaminidase (EC 3.2.1.109)
+GH149	0.371	beta-1,3-glucan phosphorylase (EC 2.4.1.97)
+GH20	-0.371	beta-hexosaminidase (EC 3.2.1.52); lacto-N-biosidase (EC 3.2.1.140); beta-1,6-N-
+GH78	0.371	alpha-L-rhamnosidase (EC 3.2.1.40); rhamnogalacturonan alpha-L-rhamnohydrolase (
+GT3	0.371	glycogen synthase (EC 2.4.1.11).
+GT50	-0.371	Dol-P-Man alpha-1,4-mannosyltransferase (EC 2.4.1.-)
+GT89	0.371	beta-D-arabinofuranosyl-1-monophosphoryldecaprenol : arabinan beta-1,2-arabinofu
+GH64	0.348	beta-1,3-glucanase (EC 3.2.1.39)
+CBM13	-0.314	Modules of approx. 150 residues which always appear as a threefold internal repe
+CBM14	-0.314	Modules of approx. 70 residues. The chitin-binding function has been demonstrate
+CBM2	-0.314	Modules of approx. 100 residues and which are found in a large number of bacteri
+GH38	0.314	alpha-mannosidase (EC 3.2.1.24); mannosyl-oligosaccharide alpha-1,2-mannosidase 
+GH6	0.314	endoglucanase (EC 3.2.1.4); cellobiohydrolase (EC 3.2.1.91); lichenase / endo-be
+GT64	-0.314	UDP-GlcNAc: heparan alpha-N-acetylhexosaminyltransferase (EC 2.4.1.224)
+CBM22	0.257	A xylan binding function has been demonstrated in several cases and affinity wit
+CBM25	0.257	Starch-binding function demonstrated in one case.
+CE3	-0.257	acetyl xylan esterase (EC 3.1.1.72).
+GH44	0.257	endoglucanase (EC 3.2.1.4); xyloglucanase (EC 3.2.1.151)
+GT104	-0.257	dTDP-beta-L-Rhap : arginine alpha-L-rhamnosyltransferase (EC 2.4.1.-)
+GT18	0.257	alpha-1,3(6)-mannosylglycoprotein beta-1,6-N-acetyl-glucosaminyltransferase (EC 
+PL35	-0.257	chondroitin lyase / chondroitinase (EC 4.2.2.-)
+PL40	0.257	ulvan lyase (EC 4.2.2.-)
+CBM43	-0.200	Modules of approx. 90-100 residues found at the C-terminus of GH17 or GH72 enzym
+CBM54	0.200	Binding to xylan, yeast cell wall glucan and chitin shown in Dvortsov et al., Mi
+GH16	0.200	xyloglucan:xyloglucosyltransferase (EC 2.4.1.207); keratan-sulfate endo-1,4-beta
+GH30	-0.200	endo-beta-1,4-xylanase (EC 3.2.1.8); beta-glucosidase (3.2.1.21); beta-glucuroni
+CBM36	0.143	Modules of approx. 120-130 residues displaying structural similarities to CBM6 m
+GH111	-0.143	keratan sulfate hydrolase (endo-beta-N-acetylglucosaminidase) (EC 3.2.1.-)
+GH128	-0.143	beta-1,3-glucanase (EC 3.2.1.39); beta-1,3-glucosidase (EC 3.2.1.-)
+GH158	-0.143	endo-beta-1,3-glucanase (EC 3.2.1.39)
+GH161	0.143	beta-1,3-glucan phosphorylase (EC 2.4.1.97)
+GH76	-0.143	alpha-1,6-mannanase (EC 3.2.1.101); alpha-glucosidase (EC 3.2.1.20)
+GT60	-0.143	UDP-GlcNAc: polypeptide alpha-N-acetylglucosaminyltransferase (EC 2.4.1.-); UDP-
+GT77	-0.143	alpha-xylosyltransferase (EC 2.4.2.39); alpha-1,3-galactosyltransferase (EC 2.4.
+PL0	-0.143	Polysaccharide lyases not yet assigned to a family.
+PL41	0.143	alginate lyase (EC 4.2.2.3)
+PL8	-0.143	hyaluronate lyase (EC 4.2.2.1); chondroitin AC lyase (EC 4.2.2.5); xanthan lyase
+GH160	-0.131	endo-beta-1,4-galactosidase (EC 3.2.1.-)
+CBM4	0.086	Modules of approx. 150 residues found in bacterial enzymes. Binding of these mod
+CBM56	0.086	beta-1,3-glucan binding function demonstrated by Yamamoto et al. (1998) FEBS Let
+GH1	-0.086	beta-glucosidase (EC 3.2.1.21); beta-galactosidase (EC 3.2.1.23); beta-mannosida
+GH130	-0.086	beta-1,4-mannosylglucose phosphorylase (EC 2.4.1.281); beta-1,4-mannooligosaccha
+GH133	-0.086	amylo-alpha-1,6-glucosidase (EC 3.2.1.33);
+GH142	-0.086	beta-L-arabinofuranosidase (EC 3.2.1.185)
+GH65	-0.086	alpha,alpha-trehalase (EC 3.2.1.28); maltose phosphorylase (EC 2.4.1.8); trehalo
+GT0	0.086	Glycosyltransferases not yet assigned to a family
+GT2	-0.086	cellulose synthase (EC 2.4.1.12); chitin synthase (EC 2.4.1.16); dolichyl-phosph
+GT30	0.086	CMP-beta-KDO: alpha-3-deoxy-D-manno-octulosonic-acid (KDO) transferase (EC 2.4.9
+GT31	0.086	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase (EC 2.4.1.149); G
+GT49	0.086	beta-1,3-N-acetylglucosaminyltransferase (EC 2.4.1.-).
+GT68	-0.086	GDP-Fuc: protein O-alpha-fucosyltransferase (EC 2.4.1.-)
+PL39	0.086	alginate lyase (EC 4.2.2.-)
+GT37	-0.030	galactoside 2-L-fucosyltransferase (EC 2.4.1.69)
+CBM0	0.029	Carbohydrate-binding modules not yet assigned to a family.
+CBM66	-0.029	The CBM66 module, derived from the Bacillus subtilis exo-acting beta-fructosidas
+CBM70	0.029	The hyaluronan-specific binding function of the N-terminal CBM70 module of Strep
+CE1	-0.029	acetyl xylan esterase (EC 3.1.1.72); cinnamoyl esterase (EC 3.1.1.-); feruloyl e
+CE17	0.029	acetylmannan esterase (3.1.1.-)
+GH154	-0.029	beta-glucuronidase (3.2.1.31); beta-1,6-D-glucuronidase (EC 3.2.1.-); beta-1,6-D
+GH75	0.029	chitosanase (EC 3.2.1.132)
+GH79	0.029	beta-glucuronidase (EC 3.2.1.31); hyaluronoglucuronidase (EC 3.2.1.36); heparana
+GH90	0.029	endorhamnosidase (EC 3.2.1.-)
+GH92	-0.029	mannosyl-oligosaccharide alpha-1,2-mannosidase (EC 3.2.1.113); mannosyl-oligosac
+PL11	-0.029	rhamnogalacturonan endolyase (EC 4.2.2.23); rhamnogalacturonan exolyase (EC 4.2.
+CBM59	0.000	Binding to mannan, xylan, and cellulose demonstrated for the CBM59 of ManF-X10 x
+GH137	0.000	beta-L-arabinofuranosidase (EC 3.2.1.185)
+GH138	0.000	rhamnogalacturonan alpha-1,2-galacturonohydrolase (EC 3.2.1.173)
+GH168	0.000	endo-alpha-(1,3)-L-fucanase (EC 3.2.1.211)
+GT56	0.000	TDP-Fuc4NAc: lipid II Fuc4NAc transferase (EC 2.4.1.-)
+GT73	0.000	CMP-beta-KDO: alpha-3-deoxy-D-manno-octulosonic-acid (KDO) transferase (EC 2.4.9
+PL27	0.000	L-rhamnose-alpha-1,4-D-glucuronate lyase (EC 4.2.2.-)
