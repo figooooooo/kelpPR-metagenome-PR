@@ -1,0 +1,19 @@
+# Figure and table outputs produced when running the scripts
+Fig*/Fig*.png
+Fig*/Fig*.pdf
+Fig*/Fig*.tiff
+figures_out/
+Rplots.pdf
+
+# Third-party basemap, retrieved with Fig1/fetch_coastline.sh
+Fig*/coastline_ne10m.gpkg
+
+# Editor / OS noise
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc

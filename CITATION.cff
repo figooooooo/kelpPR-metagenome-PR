@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "kelpPR: code and data for kelp aquaculture metagenome proteorhodopsin analysis"
+message: "If you use this software, please cite it."
+type: software
+version: 1.0.0
+date-released: "2026-10-26"
+license: MIT
+repository-code: "https://github.com/figooooooo/kelpPR-metagenome-PR"
+abstract: >-
+  Analysis code and processed data for the metagenomic study of kelp (Saccharina japonica)
+  farming effects on bacterioplankton community structure and proteorhodopsin-based phototrophy
+  in Dongshan Bay, China (six surface-water metagenomes, three kelp-farming versus three control
+  stations, January 2025).
+keywords:
+  - proteorhodopsin
+  - metagenomics
+  - kelp aquaculture
+  - bacterioplankton
+  - metagenome-assembled genomes
+  - Dongshan Bay
+authors:
+  - family-names: Zhang
+    given-names: Fei
+    orcid: "https://orcid.org/0000-0002-8155-5037"
+    affiliation: "Third Institute of Oceanography, Ministry of Natural Resources, Xiamen, China"

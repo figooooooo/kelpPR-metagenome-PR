@@ -1,0 +1,175 @@
+pathway	kegg_pathway_id	KEGG_pathway level 2	KEGG_pathway level 1	mean_CK	mean_HD	ratio_HD_CK	log2FC	direction	p_exactMW	q_BH
+Glycolysis / Gluconeogenesis	ko00010	Carbohydrate metabolism	Metabolism	0.00976951	0.00998002	1.0215	0.030755884319197842	HD	0.2000	0.2949
+Citrate cycle (TCA cycle)	ko00020	Carbohydrate metabolism	Metabolism	0.00821039	0.00811263	0.9881	-0.01727976872858	CK	0.4000	0.4971
+Pentose phosphate pathway	ko00030	Carbohydrate metabolism	Metabolism	0.00571647	0.00606245	1.0605	0.08477660194257777	HD	0.1000	0.1832
+Pentose and glucuronate interconversions	ko00040	Carbohydrate metabolism	Metabolism	0.00291787	0.002781	0.9531	-0.06930959978119673	CK	0.1000	0.1832
+Fructose and mannose metabolism	ko00051	Carbohydrate metabolism	Metabolism	0.00423485	0.00425313	1.0043	0.006215913474293221	HD	0.4000	0.4971
+Galactose metabolism	ko00052	Carbohydrate metabolism	Metabolism	0.00277681	0.00317167	1.1422	0.1918161334299208	HD	0.1000	0.1832
+Ascorbate and aldarate metabolism	ko00053	Carbohydrate metabolism	Metabolism	0.00165493	0.00152507	0.9215	-0.11788861776523105	CK	0.1000	0.1832
+Fatty acid biosynthesis	ko00061	Lipid metabolism	Metabolism	0.00530613	0.00526045	0.9914	-0.012474679666242336	CK	0.7000	0.7612
+Fatty acid elongation	ko00062	Lipid metabolism	Metabolism	1.85979e-05	9.75818e-06	0.5247	-0.9304584967652617	CK	0.1000	0.1832
+Fatty acid degradation	ko00071	Lipid metabolism	Metabolism	0.00500668	0.0047312	0.9450	-0.08164863888107426	CK	0.1000	0.1832
+Synthesis and degradation of ketone bodies	ko00072	Lipid metabolism	Metabolism	0.00122	0.00140443	1.1512	0.20310117015011198	HD	0.1000	0.1832
+Steroid biosynthesis	ko00100	Lipid metabolism	Metabolism	5.01198e-05	2.42552e-05	0.4839	-1.0470892001744212	CK	0.1000	0.1832
+Secondary bile acid biosynthesis	ko00121	Lipid metabolism	Metabolism	1.38901e-05	5.45114e-06	0.3924	-1.349426000918756	CK	0.1000	0.1832
+Ubiquinone and other terpenoid-quinone biosynthesis	ko00130	Metabolism of cofactors and vitamins	Metabolism	0.0029301	0.00286683	0.9784	-0.031489599062963385	CK	0.1000	0.1832
+Oxidative phosphorylation	ko00190	Energy metabolism	Metabolism	0.0129992	0.0128344	0.9873	-0.018413988914881968	CK	0.2000	0.2949
+Photosynthesis	ko00195	Energy metabolism	Metabolism	0.000653098	0.000444066	0.6799	-0.556524064505791	CK	0.1000	0.1832
+Photosynthesis - antenna proteins	ko00196	Energy metabolism	Metabolism	1.5943e-05	2.00821e-05	1.2596	0.33298627919243456	HD	0.1000	0.1832
+Arginine biosynthesis	ko00220	Amino acid metabolism	Metabolism	0.00489494	0.00481432	0.9835	-0.023958913012919802	CK	0.4000	0.4971
+Purine metabolism	ko00230	Nucleotide metabolism	Metabolism	0.0242434	0.0241785	0.9973	-0.0038665451448203422	CK	0.7000	0.7612
+Caffeine metabolism	ko00232	Biosynthesis of other secondary metabolites	Metabolism	3.61043e-06	1.273e-06	0.3526	-1.5039312073360103	CK	0.1000	0.1832
+Pyrimidine metabolism	ko00240	Nucleotide metabolism	Metabolism	0.0206011	0.0198399	0.9631	-0.054315499669470114	CK	0.1000	0.1832
+Alanine, aspartate and glutamate metabolism	ko00250	Amino acid metabolism	Metabolism	0.00891491	0.0090623	1.0165	0.02365807284350387	HD	0.1000	0.1832
+Tetracycline biosynthesis	ko00253	Metabolism of terpenoids and polyketides	Metabolism	1.71378e-05	1.5836e-05	0.9240	-0.11397747878800092	CK	0.7000	0.7612
+Aflatoxin biosynthesis	ko00254	Biosynthesis of other secondary metabolites	Metabolism	2.96064e-07	0	0.0000	neg_inf	CK	0.4000	0.4971
+Glycine, serine and threonine metabolism	ko00260	Amino acid metabolism	Metabolism	0.0124535	0.0126163	1.0131	0.01873912659843679	HD	0.1000	0.1832
+Monobactam biosynthesis	ko00261	Biosynthesis of other secondary metabolites	Metabolism	0.00258066	0.00251065	0.9729	-0.03967462347805242	CK	0.2000	0.2949
+Cysteine and methionine metabolism	ko00270	Amino acid metabolism	Metabolism	0.00896689	0.00920311	1.0263	0.03751327096759456	HD	0.1000	0.1832
+Valine, leucine and isoleucine degradation	ko00280	Amino acid metabolism	Metabolism	0.0069781	0.00744688	1.0672	0.09380304159529608	HD	0.1000	0.1832
+Geraniol degradation	ko00281	Metabolism of terpenoids and polyketides	Metabolism	0.000923796	0.00091295	0.9883	-0.017038479167366432	CK	1.0000	1.0000
+Valine, leucine and isoleucine biosynthesis	ko00290	Amino acid metabolism	Metabolism	0.00485064	0.00502639	1.0362	0.05134763442839532	HD	0.1000	0.1832
+Lysine biosynthesis	ko00300	Amino acid metabolism	Metabolism	0.00574939	0.00544596	0.9472	-0.07822374138644361	CK	0.1000	0.1832
+Lysine degradation	ko00310	Amino acid metabolism	Metabolism	0.00435543	0.00430303	0.9880	-0.01746157505879739	CK	0.4000	0.4971
+Penicillin and cephalosporin biosynthesis	ko00311	Biosynthesis of other secondary metabolites	Metabolism	9.86796e-05	9.88073e-05	1.0013	0.0018650637709810732	HD	1.0000	1.0000
+Arginine and proline metabolism	ko00330	Amino acid metabolism	Metabolism	0.00661372	0.00668632	1.0110	0.015748891281087293	HD	0.7000	0.7612
+Carbapenem biosynthesis	ko00332	Biosynthesis of other secondary metabolites	Metabolism	0.00087319	0.000707922	0.8107	-0.30270405314808213	CK	0.1000	0.1832
+Histidine metabolism	ko00340	Amino acid metabolism	Metabolism	0.0048282	0.0049077	1.0165	0.02356176531186014	HD	0.7000	0.7612
+Tyrosine metabolism	ko00350	Amino acid metabolism	Metabolism	0.00283253	0.00290247	1.0247	0.035190611161296584	HD	0.1000	0.1832
+Phenylalanine metabolism	ko00360	Amino acid metabolism	Metabolism	0.0044536	0.00492223	1.1052	0.14433940624912062	HD	0.1000	0.1832
+Chlorocyclohexane and chlorobenzene degradation	ko00361	Xenobiotics biodegradation and metabolism	Metabolism	0.000718445	0.000794429	1.1058	0.14503992868115095	HD	0.1000	0.1832
+Benzoate degradation	ko00362	Xenobiotics biodegradation and metabolism	Metabolism	0.00347566	0.00354764	1.0207	0.029573068113972825	HD	0.7000	0.7612
+Fluorobenzoate degradation	ko00364	Xenobiotics biodegradation and metabolism	Metabolism	0.000285216	0.00029007	1.0170	0.024346696791359496	HD	1.0000	1.0000
+Furfural degradation	ko00365	Xenobiotics biodegradation and metabolism	Metabolism	2.83165e-05	2.27771e-05	0.8044	-0.31405488233892687	CK	0.2000	0.2949
+Tryptophan metabolism	ko00380	Amino acid metabolism	Metabolism	0.00425931	0.0044273	1.0394	0.05580529147677328	HD	0.2000	0.2949
+Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	Amino acid metabolism	Metabolism	0.00768656	0.00765335	0.9957	-0.006247167558732052	CK	0.4000	0.4971
+Novobiocin biosynthesis	ko00401	Biosynthesis of other secondary metabolites	Metabolism	0.00157987	0.00161713	1.0236	0.033627832783812414	HD	0.7000	0.7612
+Staurosporine biosynthesis	ko00404	Biosynthesis of other secondary metabolites	Metabolism	7.40463e-06	3.88896e-06	0.5252	-0.9290421025093364	CK	0.1000	0.1832
+beta-Alanine metabolism	ko00410	Metabolism of other amino acids	Metabolism	0.00296582	0.00291648	0.9834	-0.024202123334166856	CK	0.7000	0.7612
+Taurine and hypotaurine metabolism	ko00430	Metabolism of other amino acids	Metabolism	0.00169106	0.00174491	1.0318	0.04522639819252074	HD	0.1000	0.1832
+Phosphonate and phosphinate metabolism	ko00440	Metabolism of other amino acids	Metabolism	0.000647708	0.00066095	1.0204	0.029197923067825943	HD	1.0000	1.0000
+Selenocompound metabolism	ko00450	Metabolism of other amino acids	Metabolism	0.00306944	0.00332375	1.0829	0.11483804040068309	HD	0.1000	0.1832
+Cyanoamino acid metabolism	ko00460	Metabolism of other amino acids	Metabolism	0.00163531	0.00166604	1.0188	0.02686006003670429	HD	0.2000	0.2949
+D-Glutamine and D-glutamate metabolism	ko00471	Metabolism of other amino acids	Metabolism	0.00123553	0.00116945	0.9465	-0.0792962933850279	CK	0.2000	0.2949
+D-Arginine and D-ornithine metabolism	ko00472	Metabolism of other amino acids	Metabolism	0.000230864	0.000210942	0.9137	-0.1302009785631497	CK	0.1000	0.1832
+D-Alanine metabolism	ko00473	Metabolism of other amino acids	Metabolism	0.000808577	0.000845128	1.0452	0.06378371419995332	HD	0.2000	0.2949
+Glutathione metabolism	ko00480	Metabolism of other amino acids	Metabolism	0.00465886	0.00481591	1.0337	0.04783143909008089	HD	0.4000	0.4971
+Starch and sucrose metabolism	ko00500	Carbohydrate metabolism	Metabolism	0.00413217	0.00415364	1.0052	0.007476432498520668	HD	1.0000	1.0000
+N-Glycan biosynthesis	ko00510	Glycan biosynthesis and metabolism	Metabolism	4.01892e-05	1.07492e-05	0.2675	-1.9025771008001389	CK	0.1000	0.1832
+Other glycan degradation	ko00511	Glycan biosynthesis and metabolism	Metabolism	0.000477198	0.000545537	1.1432	0.19309051580433206	HD	0.1000	0.1832
+Various types of N-glycan biosynthesis	ko00513	Glycan biosynthesis and metabolism	Metabolism	8.28315e-06	1.41316e-06	0.1706	-2.551252790532144	CK	0.1000	0.1832
+Other types of O-glycan biosynthesis	ko00514	Glycan biosynthesis and metabolism	Metabolism	2.14017e-06	0	0.0000	neg_inf	CK	0.1000	0.1832
+Amino sugar and nucleotide sugar metabolism	ko00520	Carbohydrate metabolism	Metabolism	0.00947441	0.00896496	0.9462	-0.07973926210959567	CK	0.1000	0.1832
+Streptomycin biosynthesis	ko00521	Biosynthesis of other secondary metabolites	Metabolism	0.00240386	0.0024926	1.0369	0.052301338320023545	HD	0.1000	0.1832
+Biosynthesis of 12-, 14- and 16-membered macrolides	ko00522	Metabolism of terpenoids and polyketides	Metabolism	0	0	1.0000	NA	CK	1.0000	1.0000
+Polyketide sugar unit biosynthesis	ko00523	Metabolism of terpenoids and polyketides	Metabolism	0.00125537	0.00130399	1.0387	0.05481928060379353	HD	0.2000	0.2949
+Neomycin, kanamycin and gentamicin biosynthesis	ko00524	Biosynthesis of other secondary metabolites	Metabolism	4.49151e-07	7.0504e-08	0.1570	-2.6714066326499264	CK	0.4000	0.4971
+Acarbose and validamycin biosynthesis	ko00525	Biosynthesis of other secondary metabolites	Metabolism	0.000681792	0.000671872	0.9854	-0.02114671116778167	CK	0.7000	0.7612
+Glycosaminoglycan degradation	ko00531	Glycan biosynthesis and metabolism	Metabolism	5.0672e-06	3.11025e-06	0.6138	-0.7041589581865089	CK	0.1000	0.1832
+Lipopolysaccharide biosynthesis	ko00540	Glycan biosynthesis and metabolism	Metabolism	0.00489103	0.00478936	0.9792	-0.03030761805573062	CK	0.7000	0.7612
+Peptidoglycan biosynthesis	ko00550	Glycan biosynthesis and metabolism	Metabolism	0.00771949	0.00705799	0.9143	-0.1292489251579686	CK	0.1000	0.1832
+Glycerolipid metabolism	ko00561	Lipid metabolism	Metabolism	0.00305352	0.00308558	1.0105	0.015066156346897728	HD	0.4000	0.4971
+Inositol phosphate metabolism	ko00562	Carbohydrate metabolism	Metabolism	0.00161026	0.00152391	0.9464	-0.07951472213792589	CK	0.2000	0.2949
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	ko00563	Glycan biosynthesis and metabolism	Metabolism	2.11173e-05	5.01955e-06	0.2377	-2.072796104265808	CK	0.1000	0.1832
+Glycerophospholipid metabolism	ko00564	Lipid metabolism	Metabolism	0.0042196	0.00426005	1.0096	0.013766434081980217	HD	0.4000	0.4971
+Ether lipid metabolism	ko00565	Lipid metabolism	Metabolism	4.12633e-05	4.82608e-05	1.1696	0.2259946163070779	HD	0.7000	0.7612
+Arachidonic acid metabolism	ko00590	Lipid metabolism	Metabolism	0.0003655	0.000371019	1.0151	0.021622727607163824	HD	1.0000	1.0000
+Linoleic acid metabolism	ko00591	Lipid metabolism	Metabolism	1.49756e-05	1.81091e-05	1.2092	0.27410489441954067	HD	0.2000	0.2949
+alpha-Linolenic acid metabolism	ko00592	Lipid metabolism	Metabolism	0.000124487	0.000130688	1.0498	0.07013342084777469	HD	0.2000	0.2949
+Sphingolipid metabolism	ko00600	Lipid metabolism	Metabolism	0.000433434	0.000484948	1.1188	0.16201495459959075	HD	0.1000	0.1832
+Glycosphingolipid biosynthesis - lacto and neolacto series	ko00601	Glycan biosynthesis and metabolism	Metabolism	5.33041e-07	1.55344e-06	2.9143	1.5431483577439515	HD	0.2000	0.2949
+Glycosphingolipid biosynthesis - globo and isoglobo series	ko00603	Glycan biosynthesis and metabolism	Metabolism	1.43113e-06	8.46861e-07	0.5917	-0.7569605491966442	CK	0.4000	0.4971
+Glycosphingolipid biosynthesis - ganglio series	ko00604	Glycan biosynthesis and metabolism	Metabolism	6.41886e-06	2.11948e-06	0.3302	-1.5986045755307798	CK	0.1000	0.1832
+Pyruvate metabolism	ko00620	Carbohydrate metabolism	Metabolism	0.011409	0.0119469	1.0471	0.06646023397797826	HD	0.1000	0.1832
+Dioxin degradation	ko00621	Xenobiotics biodegradation and metabolism	Metabolism	0.000245424	0.000239404	0.9755	-0.03582941368950959	CK	0.7000	0.7612
+Xylene degradation	ko00622	Xenobiotics biodegradation and metabolism	Metabolism	0.000249332	0.00027214	1.0915	0.12627945768475488	HD	0.1000	0.1832
+Toluene degradation	ko00623	Xenobiotics biodegradation and metabolism	Metabolism	0.000292396	0.000282149	0.9650	-0.05146862938310857	CK	0.2000	0.2949
+Polycyclic aromatic hydrocarbon degradation	ko00624	Xenobiotics biodegradation and metabolism	Metabolism	0.000469334	0.000415939	0.8862	-0.17424341248341996	CK	0.1000	0.1832
+Chloroalkane and chloroalkene degradation	ko00625	Xenobiotics biodegradation and metabolism	Metabolism	0.00183955	0.00182446	0.9918	-0.011884871300798643	CK	0.7000	0.7612
+Naphthalene degradation	ko00626	Xenobiotics biodegradation and metabolism	Metabolism	0.000733183	0.000596278	0.8133	-0.29818781437939046	CK	0.1000	0.1832
+Aminobenzoate degradation	ko00627	Xenobiotics biodegradation and metabolism	Metabolism	0.00136122	0.00146647	1.0773	0.10744219102925844	HD	0.1000	0.1832
+Glyoxylate and dicarboxylate metabolism	ko00630	Carbohydrate metabolism	Metabolism	0.0111883	0.0115156	1.0293	0.04161050938480597	HD	0.1000	0.1832
+Nitrotoluene degradation	ko00633	Xenobiotics biodegradation and metabolism	Metabolism	0.00035619	0.000401149	1.1262	0.17149126545711718	HD	0.1000	0.1832
+Propanoate metabolism	ko00640	Carbohydrate metabolism	Metabolism	0.00778474	0.00814245	1.0460	0.06481456017809492	HD	0.1000	0.1832
+Ethylbenzene degradation	ko00642	Xenobiotics biodegradation and metabolism	Metabolism	6.92645e-06	1.06812e-05	1.5421	0.6248909219771022	HD	0.1000	0.1832
+Styrene degradation	ko00643	Xenobiotics biodegradation and metabolism	Metabolism	0.00071367	0.000958089	1.3425	0.42490362483635724	HD	0.1000	0.1832
+Butanoate metabolism	ko00650	Carbohydrate metabolism	Metabolism	0.00703908	0.00711028	1.0101	0.014518279341028797	HD	0.4000	0.4971
+C5-Branched dibasic acid metabolism	ko00660	Carbohydrate metabolism	Metabolism	0.003227	0.00320367	0.9928	-0.010465600279578253	CK	0.7000	0.7612
+One carbon pool by folate	ko00670	Metabolism of cofactors and vitamins	Metabolism	0.00586455	0.00585685	0.9987	-0.0018955421437717452	CK	1.0000	1.0000
+Methane metabolism	ko00680	Energy metabolism	Metabolism	0.00761888	0.008665	1.1373	0.18562103343385905	HD	0.1000	0.1832
+Carbon fixation in photosynthetic organisms	ko00710	Energy metabolism	Metabolism	0.000362348	0.000412055	1.1372	0.18546153186133266	HD	0.2000	0.2949
+Carbon fixation pathways in prokaryotes	ko00720	Energy metabolism	Metabolism	0.000116846	0.000356439	3.0505	1.6090510019616857	HD	0.1000	0.1832
+Thiamine metabolism	ko00730	Metabolism of cofactors and vitamins	Metabolism	0.00233742	0.00209963	0.8983	-0.15478045106742513	CK	0.1000	0.1832
+Riboflavin metabolism	ko00740	Metabolism of cofactors and vitamins	Metabolism	0.00209505	0.00226287	1.0801	0.11117112241547751	HD	0.1000	0.1832
+Vitamin B6 metabolism	ko00750	Metabolism of cofactors and vitamins	Metabolism	0.00202258	0.00211103	1.0437	0.06175022737777063	HD	0.1000	0.1832
+Nicotinate and nicotinamide metabolism	ko00760	Metabolism of cofactors and vitamins	Metabolism	0.00470226	0.00501611	1.0667	0.09321429595954649	HD	0.1000	0.1832
+Pantothenate and CoA biosynthesis	ko00770	Metabolism of cofactors and vitamins	Metabolism	0.00574241	0.0057353	0.9988	-0.0017867958684995898	CK	1.0000	1.0000
+Biotin metabolism	ko00780	Metabolism of cofactors and vitamins	Metabolism	0.00278083	0.00278282	1.0007	0.0010343845252819726	HD	0.7000	0.7612
+Lipoic acid metabolism	ko00785	Metabolism of cofactors and vitamins	Metabolism	0.000650485	0.000655793	1.0082	0.011725701759733255	HD	0.7000	0.7612
+Folate biosynthesis	ko00790	Metabolism of cofactors and vitamins	Metabolism	0.00468397	0.00458338	0.9785	-0.031319371294330316	CK	0.1000	0.1832
+Atrazine degradation	ko00791	Xenobiotics biodegradation and metabolism	Metabolism	0.000108858	9.43679e-05	0.8669	-0.2060739336572454	CK	0.2000	0.2949
+Porphyrin and chlorophyll metabolism	ko00860	Metabolism of cofactors and vitamins	Metabolism	0.00736631	0.00752952	1.0222	0.031615667634870864	HD	0.1000	0.1832
+Terpenoid backbone biosynthesis	ko00900	Metabolism of terpenoids and polyketides	Metabolism	0.00528946	0.00521656	0.9862	-0.020020035776753417	CK	0.4000	0.4971
+Limonene and pinene degradation	ko00903	Metabolism of terpenoids and polyketides	Metabolism	0.0010175	0.0010886	1.0699	0.09744397938249676	HD	0.4000	0.4971
+Carotenoid biosynthesis	ko00906	Metabolism of terpenoids and polyketides	Metabolism	0.00129965	0.00105364	0.8107	-0.30274006348733534	CK	0.1000	0.1832
+Sesquiterpenoid and triterpenoid biosynthesis	ko00909	Metabolism of terpenoids and polyketides	Metabolism	2.93293e-05	2.08647e-05	0.7114	-0.4912829240062122	CK	0.1000	0.1832
+Nitrogen metabolism	ko00910	Energy metabolism	Metabolism	0.0032898	0.00351528	1.0685	0.09564312586073727	HD	0.2000	0.2949
+Sulfur metabolism	ko00920	Energy metabolism	Metabolism	0.00511467	0.00556661	1.0884	0.12215841790045938	HD	0.1000	0.1832
+Caprolactam degradation	ko00930	Xenobiotics biodegradation and metabolism	Metabolism	0.000827871	0.000826386	0.9982	-0.0025913769131089607	CK	0.7000	0.7612
+Aminoacyl-tRNA biosynthesis	ko00970	Translation	Genetic Information Processing	0.013116	0.0125881	0.9598	-0.05926731068403999	CK	0.1000	0.1832
+Steroid degradation	ko00984	Xenobiotics biodegradation and metabolism	Metabolism	0.000241838	0.000250271	1.0349	0.04944871930898101	HD	0.4000	0.4971
+Biosynthesis of unsaturated fatty acids	ko01040	Lipid metabolism	Metabolism	0.00158728	0.00156641	0.9869	-0.01909209468306771	CK	0.4000	0.4971
+Biosynthesis of ansamycins	ko01051	Metabolism of terpenoids and polyketides	Metabolism	1.40495e-05	6.36348e-06	0.4529	-1.142630169629958	CK	0.1000	0.1832
+Type I polyketide structures	ko01052	Metabolism of terpenoids and polyketides	Metabolism	2.74409e-06	1.1996e-06	0.4372	-1.193772595691487	CK	0.2000	0.2949
+Biosynthesis of siderophore group nonribosomal peptides	ko01053	Metabolism of terpenoids and polyketides	Metabolism	3.29995e-05	1.08236e-05	0.3280	-1.6082616545078339	CK	0.1000	0.1832
+Nonribosomal peptide structures	ko01054	Metabolism of terpenoids and polyketides	Metabolism	0.000113928	0.000105294	0.9242	-0.113695868082886	CK	0.4000	0.4971
+Biosynthesis of vancomycin group antibiotics	ko01055	Metabolism of terpenoids and polyketides	Metabolism	2.8361e-05	2.98397e-05	1.0521	0.07332086339656728	HD	0.4000	0.4971
+Biosynthesis of type II polyketide backbone	ko01056	Metabolism of terpenoids and polyketides	Metabolism	0	2.11512e-07	211513.0510	inf_HD	HD	1.0000	1.0000
+Biosynthesis of type II polyketide products	ko01057	Metabolism of terpenoids and polyketides	Metabolism	3.87115e-06	1.69722e-06	0.4384	-1.189586687096098	CK	0.1000	0.1832
+Metabolic pathways	ko01100	Global and overview maps	Metabolism	0.183866	0.183131	0.9960	-0.005774989055318834	CK	0.2000	0.2949
+Biosynthesis of secondary metabolites	ko01110	Global and overview maps	Metabolism	0.0831759	0.0826851	0.9941	-0.008537253218261725	CK	0.2000	0.2949
+Microbial metabolism in diverse environments	ko01120	Global and overview maps	Metabolism	0.0515482	0.0539378	1.0464	0.06537448496688418	HD	0.1000	0.1832
+Biosynthesis of antibiotics	ko01130	Global and overview maps	Metabolism	0.0619708	0.0619555	0.9998	-0.00035567102925329933	CK	1.0000	1.0000
+Carbon metabolism	ko01200	Global and overview maps	Metabolism	0.0312291	0.0327204	1.0478	0.06730076453948808	HD	0.1000	0.1832
+2-Oxocarboxylic acid metabolism	ko01210	Global and overview maps	Metabolism	0.00919773	0.00921028	1.0014	0.0019669243365846856	HD	0.7000	0.7612
+Fatty acid metabolism	ko01212	Global and overview maps	Metabolism	0.0078819	0.00768134	0.9746	-0.03718659043504451	CK	0.2000	0.2949
+Degradation of aromatic compounds	ko01220	Global and overview maps	Metabolism	0.00227068	0.00227005	0.9997	-0.00040317027016452314	CK	1.0000	1.0000
+Biosynthesis of amino acids	ko01230	Global and overview maps	Metabolism	0.0383855	0.0384407	1.0014	0.0020718605650874504	HD	0.7000	0.7612
+ABC transporters	ko02010	Membrane transport	Environmental Information Processing	0.0222954	0.0214971	0.9642	-0.0526045478193239	CK	0.1000	0.1832
+Two-component system	ko02020	Signal transduction	Environmental Information Processing	0.0156719	0.0154345	0.9848	-0.022026112354304885	CK	0.4000	0.4971
+Quorum sensing	ko02024	Cellular community - prokaryotes	Cellular Processes	0.0140602	0.0141686	1.0077	0.01108368513762435	HD	0.4000	0.4971
+Bacterial chemotaxis	ko02030	Cell motility	Cellular Processes	0.0020768	0.00168376	0.8107	-0.3026768191692161	CK	0.1000	0.1832
+Flagellar assembly	ko02040	Cell motility	Cellular Processes	0.00351623	0.00317595	0.9032	-0.14684150309513383	CK	0.1000	0.1832
+Phosphotransferase system (PTS)	ko02060	Membrane transport	Environmental Information Processing	0.000604089	0.000602124	0.9967	-0.0047013226509257915	CK	1.0000	1.0000
+Ribosome biogenesis in eukaryotes	ko03008	Translation	Genetic Information Processing	0.000219412	6.62479e-05	0.3019	-1.7276945286583616	CK	0.1000	0.1832
+Ribosome	ko03010	Translation	Genetic Information Processing	0.0160611	0.0162532	1.0120	0.01714756509627736	HD	0.2000	0.2949
+RNA transport	ko03013	Translation	Genetic Information Processing	0.000249448	8.01108e-05	0.3212	-1.6386715868147887	CK	0.1000	0.1832
+mRNA surveillance pathway	ko03015	Translation	Genetic Information Processing	0.000123818	7.76562e-05	0.6272	-0.6730487584424818	CK	0.1000	0.1832
+RNA degradation	ko03018	Folding, sorting and degradation	Genetic Information Processing	0.00637479	0.00627347	0.9841	-0.023113371543798278	CK	0.4000	0.4971
+RNA polymerase	ko03020	Transcription	Genetic Information Processing	0.00292554	0.00257173	0.8791	-0.18596303437404849	CK	0.1000	0.1832
+Basal transcription factors	ko03022	Transcription	Genetic Information Processing	0.00010555	0.000120346	1.1402	0.18927087842180723	HD	0.1000	0.1832
+DNA replication	ko03030	Replication and repair	Genetic Information Processing	0.00987302	0.00918565	0.9304	-0.1041095965089857	CK	0.1000	0.1832
+Spliceosome	ko03040	Transcription	Genetic Information Processing	0.000237876	5.60662e-05	0.2357	-2.0850050545110093	CK	0.1000	0.1832
+Proteasome	ko03050	Folding, sorting and degradation	Genetic Information Processing	0.000111248	7.80042e-05	0.7012	-0.5121519958824137	CK	0.1000	0.1832
+Protein export	ko03060	Folding, sorting and degradation	Genetic Information Processing	0.00610973	0.00615229	1.0070	0.01001579229191394	HD	0.7000	0.7612
+Bacterial secretion system	ko03070	Membrane transport	Environmental Information Processing	0.00673393	0.00664839	0.9873	-0.018442297121181287	CK	0.1000	0.1832
+Base excision repair	ko03410	Replication and repair	Genetic Information Processing	0.00566119	0.00520222	0.9189	-0.12197957897919266	CK	0.1000	0.1832
+Nucleotide excision repair	ko03420	Replication and repair	Genetic Information Processing	0.00596105	0.00551702	0.9255	-0.11167756172049459	CK	0.1000	0.1832
+Mismatch repair	ko03430	Replication and repair	Genetic Information Processing	0.00825188	0.00778039	0.9429	-0.08488028239970798	CK	0.1000	0.1832
+Homologous recombination	ko03440	Replication and repair	Genetic Information Processing	0.00957881	0.00936823	0.9780	-0.03206954056223588	CK	0.2000	0.2949
+Non-homologous end-joining	ko03450	Replication and repair	Genetic Information Processing	7.68621e-05	3.35995e-05	0.4371	-1.1938339391101018	CK	0.1000	0.1832
+MAPK signaling pathway - yeast	ko04011	Signal transduction	Environmental Information Processing	1.22024e-05	2.40287e-06	0.1969	-2.3443405483369637	CK	0.1000	0.1832
+Phosphatidylinositol signaling system	ko04070	Signal transduction	Environmental Information Processing	4.4655e-05	1.42142e-05	0.3183	-1.651487178512133	CK	0.1000	0.1832
+Cell cycle - yeast	ko04111	Cell growth and death	Cellular Processes	4.27169e-05	9.4722e-06	0.2217	-2.1730366941559622	CK	0.1000	0.1832
+Cell cycle - Caulobacter	ko04112	Cell growth and death	Cellular Processes	3.94096e-06	3.96075e-06	1.0050	0.007225059986304645	HD	1.0000	1.0000
+Meiosis - yeast	ko04113	Cell growth and death	Cellular Processes	3.50036e-05	6.14659e-06	0.1756	-2.5096458776297594	CK	0.1000	0.1832
+Ubiquitin mediated proteolysis	ko04120	Folding, sorting and degradation	Genetic Information Processing	0.000174573	4.32147e-05	0.2475	-2.0142372806711966	CK	0.1000	0.1832
+Sulfur relay system	ko04122	Folding, sorting and degradation	Genetic Information Processing	0.00242038	0.00248557	1.0269	0.03834117928173338	HD	0.4000	0.4971
+SNARE interactions in vesicular transport	ko04130	Folding, sorting and degradation	Genetic Information Processing	1.21804e-05	1.69748e-06	0.1394	-2.8430911021179845	CK	0.1000	0.1832
+Mitophagy - yeast	ko04139	Transport and catabolism	Cellular Processes	1.61255e-05	1.91113e-06	0.1185	-3.0768490526850427	CK	0.1000	0.1832
+Autophagy - animal	ko04140	Transport and catabolism	Cellular Processes	4.49086e-05	1.15916e-05	0.2581	-1.9539052216783226	CK	0.1000	0.1832
+Protein processing in endoplasmic reticulum	ko04141	Folding, sorting and degradation	Genetic Information Processing	0.000268418	8.68279e-05	0.3235	-1.6282510971180777	CK	0.1000	0.1832
+Endocytosis	ko04144	Transport and catabolism	Cellular Processes	0.000190271	5.50792e-05	0.2895	-1.7884751677419588	CK	0.1000	0.1832
+Phagosome	ko04145	Transport and catabolism	Cellular Processes	0.000116867	4.70344e-05	0.4025	-1.3130812707692336	CK	0.1000	0.1832
+Peroxisome	ko04146	Transport and catabolism	Cellular Processes	8.56586e-05	3.29587e-05	0.3848	-1.3779393628611847	CK	0.1000	0.1832
+Biofilm formation - Vibrio cholerae	ko05111	Cellular community - prokaryotes	Cellular Processes	5.27876e-05	1.64027e-05	0.3107	-1.6862697727080276	CK	0.1000	0.1832

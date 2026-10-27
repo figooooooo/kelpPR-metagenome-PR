@@ -1,0 +1,64 @@
+MAG	n_PR	PR_proteins	mean_len_aa	GTDB_taxonomy	step7_crossval
+bin.1	2	k141_4558595_2,k141_2753019_12	248	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Methylophilaceae;g__BACL14;s__BACL14 sp017858095	yes
+bin.3	1	k141_1029862_88	252	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466;s__	yes
+bin.4	1	k141_2703628_76	259	d__Bacteria;p__Bacteroidota_A;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__UBA8296;s__	yes
+bin.5	1	k141_1311713_10	257	d__Bacteria;p__Bacillota;c__Bacilli;o__Acholeplasmatales;f__Acholeplasmataceae;g__UBA8290;s__	yes
+bin.6	1	k141_4481670_1	263	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__UBA4575;f__UBA4575;g__UBA1858;s__	yes
+bin.7	1	k141_3395656_24	240	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__GCA001735715;s__GCA001735715 sp027620655	yes
+bin.8	1	k141_686838_6	242	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Polaribacter;s__Polaribacter sp947496195	no
+bin.9	1	k141_2741884_4	258	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__UBA9145 sp008081045	yes
+bin.12	1	k141_773991_4	257	d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae;g__;s__	yes
+bin.15	1	k141_70464_8	237	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA7446;s__	no
+bin.16	1	k141_1194163_2	270	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__RS24;f__RS24;g__JAYODZ01;s__	yes
+bin.17	1	k141_3016827_5	243	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__CAJJDF01;g__CAJJDF01;s__	yes
+bin.18	1	k141_2965262_7	255	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Eutrophovitaceae;g__Eutrophovita;s__Eutrophovita sp905478365	no
+bin.19	1	k141_3336126_9	242	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MS024-2A;s__MS024-2A sp011525195	no
+bin.20	1	k141_4296986_6	241	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MAG-120531;s__MAG-120531 sp013373635	yes
+bin.21	1	k141_599583_75	282	d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia;s__Poseidonia sp038118245	yes
+bin.24	1	k141_3648431_7	252	d__Bacteria;p__Bacteroidota_A;c__Rhodothermia;o__Rhodothermales;f__UBA10348;g__JAAZVD01;s__JAAZVD01 sp938018055	no
+bin.25	1	k141_2258902_15	248	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae;g__UBA10364;s__UBA10364 sp003045825	yes
+bin.26	2	k141_919882_9,k141_3327707_32	248	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Puniceispirillales;f__UBA1172;g__UBA12202;s__UBA12202 sp027593125	no
+bin.27	1	k141_332086_8	233	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Opacimonas;s__Opacimonas sp000155775	yes
+bin.28	1	k141_3023506_5	290	d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia;s__	yes
+bin.31	1	k141_2717539_34	246	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Arcticimaribacter;s__Arcticimaribacter sp022424955	yes
+bin.33	1	k141_3521189_41	239	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Polaribacter;s__	no
+bin.34	1	k141_623531_23	241	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__JAQWSC01;s__JAQWSC01 sp030828565	no
+bin.36	1	k141_953784_145	232	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Azotimanducaceae;g__UBA9926;s__UBA9926 sp938017975	yes
+bin.37	1	k141_830406_7	260	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae;g__UBA10364;s__UBA10364 sp011525035	yes
+bin.39	1	k141_3957416_14	262	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__UBA9145 sp023254735	yes
+bin.40	1	k141_1207374_5	199	d__Bacteria;p__Actinomycetota;c__Acidimicrobiia;o__Acidimicrobiales;f__Ilumatobacteraceae;g__Casp-actino5;s__Casp-actino5 sp038136655	yes
+bin.41	1	k141_4259452_12	287	d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O1;s__MGIIb-O1 sp023268715	yes
+bin.44	1	k141_4542490_39	239	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Polaribacter;s__Polaribacter sp938084845	no
+bin.46	1	k141_272741_9	238	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__Erythrobacter rubellus	no
+bin.47	1	k141_3466303_125	245	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__;s__	yes
+bin.51	1	k141_203375_2	251	d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA2589;s__UBA2589 sp938030915	no
+bin.55	1	k141_2605657_12	238	d__Bacteria;p__Actinomycetota;c__Thermoleophilia;o__Miltoncostaeales;f__Miltoncostaeaceae;g__SYFI01;s__SYFI01 sp938017905	yes
+bin.56	1	k141_2889070_3	242	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA8316;s__UBA8316 sp027621505	yes
+bin.58	1	k141_2372783_5	257	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__Porticoccus;s__Porticoccus sp023263825	yes
+bin.59	1	k141_723753_3	230	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Sanyastnellaceae;g__UBA11663;s__	no
+bin.61	1	k141_52003_85	241	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Polaribacter;s__Polaribacter sp024640565	no
+bin.65	1	k141_4353671_42	245	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__NS11-12g;f__UBA9320;g__UBA9320;s__UBA9320 sp018700895	yes
+bin.68	1	k141_328693_14	235	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Azotimanducaceae;g__UBA9926;s__UBA9926 sp023261215	yes
+bin.74	1	k141_395193_6	241	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__UBA7312;g__GCA-2862585;s__	yes
+bin.75	1	k141_3019208_3	243	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__JALQTG01;s__JALQTG01 sp029254025	no
+bin.76	1	k141_2181643_15	237	d__Bacteria;p__Actinomycetota;c__Acidimicrobiia;o__Acidimicrobiales;f__Ilumatobacteraceae;g__Casp-actino5;s__Casp-actino5 sp029978815	yes
+bin.77	1	k141_2703354_63	240	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__CAJXUB01;s__	no
+bin.82	1	k141_3647088_45	251	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__NS11-12g;f__UBA955;g__VMCP01;s__VMCP01 sp008081305	yes
+bin.84	1	k141_720140_6	231	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Sanyastnellaceae;g__UBA11663;s__UBA11663 sp040261075	yes
+bin.86	1	k141_980859_3	212	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA3478;s__	no
+bin.90	1	k141_648620_89	250	d__Bacteria;p__Desulfobacterota_D;c__UBA1144;o__UBA1144;f__UBA1144;g__TMED126;s__TMED126 sp002701605	yes
+bin.92	1	k141_758677_10	259	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__UBA9145 sp038104835	yes
+bin.93	3	k141_3274354_4,k141_3421488_2,k141_2133477_3	311	d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia;s__Poseidonia sp030827475	yes
+bin.94	1	k141_2333113_15	259	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Puniceispirillales;f__Puniceispirillaceae;g__UBA3439;s__UBA3439 sp009919335	yes
+bin.102	1	k141_790134_2	259	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Aequoribacter;s__Aequoribacter fuscus	no
+bin.104	1	k141_2431289_7	236	d__Bacteria;p__Actinomycetota;c__Acidimicrobiia;o__Acidimicrobiales;f__Aldehydirespiratoraceae;g__UBA11606;s__UBA11606 sp029979265	yes
+bin.105	1	k141_4690662_24	242	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MS024-2A;s__MS024-2A sp010031465	yes
+bin.106	1	k141_969142_20	250	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Salibacteraceae;g__SHAN690;s__SHAN690 sp023262195	yes
+bin.108	1	k141_4533906_4	249	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__D2472;g__D2472;s__	yes
+bin.109	1	k141_3621750_7	243	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MAG-120531;s__MAG-120531 sp022239325	yes
+bin.111	1	k141_622897_22	241	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__JAQWSC01;s__JAQWSC01 sp029243385	yes
+bin.113	1	k141_308382_6	262	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Puniceispirillales;f__Puniceispirillaceae;g__Puniceispirillum;s__	yes
+bin.117	2	k141_2426129_12,k141_926258_2	268	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Litorivicinaceae;g__HIMB30;s__HIMB30 sp000227525	no
+bin.127	2	k141_1660199_2,k141_3839154_2	314	d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__Poseidonia;s__	no
+bin.128	1	k141_1413431_55	255	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__RS24;f__RS24;g__UBA8337;s__	yes
+bin.129	1	k141_1212767_261	230	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__HTCC2207;s__HTCC2207 sp018663035	yes
